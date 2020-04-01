@@ -1,3 +1,3 @@
-foo: foo version dev
+foo: foo version devvvvv
 demo:
   message: Hello Spring Config
